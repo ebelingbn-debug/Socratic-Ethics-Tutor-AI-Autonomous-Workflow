@@ -30,3 +30,4 @@ Custom prompt engineering
 
 Demo
 
+https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/07/23/20251007233118-2FNT0MP4.json
